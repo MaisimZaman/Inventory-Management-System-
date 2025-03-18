@@ -40,7 +40,7 @@
         </div>
 
         <button type="submit" class="btn btn-success">Save Product</button>
-        <a href="{{ route('products.index') }}" class="btn btn-secondary">Back</a>
+        <a href="{{ route('cars.index') }}" class="btn btn-secondary">Back</a>
     </form>
 
 @endsection
